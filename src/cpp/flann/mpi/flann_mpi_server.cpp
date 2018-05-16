@@ -1,5 +1,5 @@
 #include <boost/mpi.hpp>
-#include <flann/mpi/server.h>
+#include "flann/mpi/server.h"
 #include <stdio.h>
 #include <time.h>
 

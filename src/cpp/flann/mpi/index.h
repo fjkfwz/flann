@@ -32,8 +32,8 @@
 
 #include <boost/mpi.hpp>
 #include <boost/serialization/array.hpp>
-#include <flann/flann.hpp>
-#include <flann/io/hdf5.h>
+#include "flann/flann.hpp"
+#include "flann/io/hdf5.h"
 
 namespace flann
 {

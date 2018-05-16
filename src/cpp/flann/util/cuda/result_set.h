@@ -29,7 +29,7 @@
 #ifndef FLANN_UTIL_CUDA_RESULTSET_H
 #define FLANN_UTIL_CUDA_RESULTSET_H
 
-#include <flann/util/cuda/heap.h>
+#include "flann/util/cuda/heap.h"
 #include <limits>
 
 __device__ __forceinline__

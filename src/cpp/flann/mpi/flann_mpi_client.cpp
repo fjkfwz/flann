@@ -3,9 +3,9 @@
 
 #include <cstdlib>
 #include <iostream>
-#include <flann/util/params.h>
-#include <flann/io/hdf5.h>
-#include <flann/mpi/client.h>
+#include "flann/util/params.h"
+#include "flann/io/hdf5.h"
+#include "flann/mpi/client.h"
 
 
 

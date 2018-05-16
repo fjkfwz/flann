@@ -28,7 +28,7 @@
  *************************************************************************/
 
 #include "kdtree_cuda_3d_index.h"
-#include <flann/algorithms/dist.h>
+#include "flann/algorithms/dist.h"
 #include <flann/util/cuda/result_set.h>
 // #define THRUST_DEBUG 1
 #include <cuda.h>
@@ -39,7 +39,7 @@
 #include <flann/util/cutil_math.h>
 #include <thrust/host_vector.h>
 #include <thrust/copy.h>
-#include <flann/util/cuda/heap.h>
+#include "flann/util/cuda/heap.h"
 #include <thrust/scan.h>
 #include <thrust/count.h>
 #include <flann/algorithms/kdtree_cuda_builder.h>

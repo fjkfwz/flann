@@ -30,7 +30,7 @@
 #ifndef MPI_MATRIX_H_
 #define MPI_MATRIX_H_
 
-#include <flann/util/matrix.h>
+#include "flann/util/matrix.h"
 #include <boost/serialization/array.hpp>
 
 

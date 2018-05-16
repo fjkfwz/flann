@@ -32,8 +32,8 @@
 
 #include <cstdlib>
 #include <boost/asio.hpp>
-#include <flann/util/matrix.h>
-#include <flann/util/params.h>
+#include "flann/util/matrix.h"
+#include "flann/util/params.h"
 #include "queries.h"
 
 namespace flann {

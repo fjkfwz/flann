@@ -8,7 +8,7 @@
 #ifndef CENTER_CHOOSER_H_
 #define CENTER_CHOOSER_H_
 
-#include <flann/util/matrix.h>
+#include "flann/util/matrix.h"
 
 namespace flann
 {

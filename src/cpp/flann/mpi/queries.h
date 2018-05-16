@@ -30,7 +30,7 @@
 #ifndef MPI_QUERIES_H_
 #define MPI_QUERIES_H_
 
-#include <flann/mpi/matrix.h>
+#include "flann/mpi/matrix.h"
 #include <boost/archive/binary_iarchive.hpp>
 #include <boost/archive/binary_oarchive.hpp>
 #include <boost/asio.hpp>
