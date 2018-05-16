@@ -41,7 +41,7 @@
 #include "flann/general.h"
 #include "flann/algorithms/nn_index.h"
 #include "flann/algorithms/dist.h"
-#include <flann/algorithms/center_chooser.h>
+#include "flann/algorithms/center_chooser.h"
 #include "flann/util/matrix.h"
 #include "flann/util/result_set.h"
 #include "flann/util/heap.h"
